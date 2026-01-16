@@ -76,3 +76,12 @@ footer {
     font-size: 0.8rem;
     color: var(--text-muted);
 }
+
+
+.foxpine-image {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+}
